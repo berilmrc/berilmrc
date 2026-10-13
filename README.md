@@ -1,68 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,100:6f42c1&height=180&section=header&text=Merhaba,%20ben%20Beril%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Başlık" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b4d8&height=180&section=header&text=Merhaba,%20ben%20Beril&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Başlık" width="100%">
 
 </div>
 
----
+## Hakkımda
 
-## 🙋‍♀️ Hakkımda
+```c
+const struct Profil beril = {
+    .okul   = "Gazi Üniversitesi",
+    .bolum  = "Elektrik-Elektronik Mühendisliği",
+    .notlar = "Haftalık raporlar + keyword listesi",
+};
+```
 
-- 🎓 **Gazi Üniversitesi**, **Elektrik-Elektronik Mühendisliği** öğrencisiyim.
-- 📚 Öğrendiklerimi haftalık raporlar ve **keyword** listesi hâlinde topluyorum.
-
----
-
-## 🔧 Çalıştığım Konular
+## Çalıştığım Konular
 
 <table>
 <tr>
-<td align="center" width="25%"><h1>🧠</h1><b>STM32</b><br><sub>GPIO, ADC, Timer, DMA, kesmeler</sub></td>
-<td align="center" width="25%"><h1>🌡️</h1><b>Statik Port</b><br><sub>Basınç ölçümü, sensör, kalibrasyon</sub></td>
-<td align="center" width="25%"><h1>📡</h1><b>Haberleşme</b><br><sub>UART · RS485 · Modbus</sub></td>
-<td align="center" width="25%"><h1>💻</h1><b>C Programlama</b><br><sub>Gömülü C, bellek, RTOS'a giriş</sub></td>
+<td align="center" width="25%"><h3>⚙️ STM32</h3><code>GPIO · ADC · TIM · DMA · NVIC</code></td>
+<td align="center" width="25%"><h3>🌡️ Statik Port</h3><code>Basınç · Sensör · Kalibrasyon</code></td>
+<td align="center" width="25%"><h3>📡 Haberleşme</h3><code>UART · RS485 · Modbus</code></td>
+<td align="center" width="25%"><h3>💻 C</h3><code>Gömülü C · Bellek · RTOS</code></td>
 </tr>
 </table>
 
----
-
-## 📂 Projelerim
+## Projelerim
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📘 [Staj](https://github.com/berilmrc/Staj)
+### 📁 [Staj](https://github.com/berilmrc/Staj)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔑 [Anahtar Kelimeler](https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/Anahtar_Kelimeler)
+### 🔑 [Keywords](https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/Anahtar_Kelimeler)
 
 </td>
 </tr>
 </table>
 
----
+## Staj Yolculuğu
 
-## 🗓️ Staj Yolculuğu
+```console
+$ git log --oneline staj
+[hazırlık]  Elektronik temelleri
+[hafta-1]   Şematik okuma, dijital mantık, C'ye giriş
+[hafta-2]   C derinleşme, mikrodenetleyici kavramı, Wokwi
+[hafta-3]   STM32 simülasyon ödevleri
+[hafta-4]   Kavramsal tasarım
+```
 
-| Dönem | Konu |
-|---|---|
-| 🧩 Hazırlık Haftası | Elektronik temelleri |
-| 1️⃣ 1. Hafta | Şematik okuma, dijital mantık, C'ye giriş |
-| 2️⃣ 2. Hafta | C derinleşme, mikrodenetleyici kavramı, Wokwi |
-| 3️⃣ 3. Hafta | STM32 simülasyon ödevleri |
-| 4️⃣ 4. Hafta | Kavramsal tasarım |
+## İletişim
 
----
-
-## 📫 İletişim
-
-<a href="https://www.linkedin.com/in/beril-mercan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/beril-mercan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8"></a>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:0969da&height=100&section=footer" alt="Alt bilgi" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0d1117&height=100&section=footer" alt="Alt bilgi" width="100%">
 
 </div>
