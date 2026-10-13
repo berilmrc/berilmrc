@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="assets/beyin-haritasi.svg" alt="Beril — STM32, Statik Port, Haberleşme ve C konularını gösteren beyin haritası" width="100%">
+<a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/Anahtar_Kelimeler"><img src="assets/beyin-haritasi.svg" alt="Beril — STM32, Statik Port, Haberleşme ve C konularını gösteren beyin haritası" width="100%"></a>
+
+<a href="https://github.com/berilmrc/Staj/blob/main/Staj_haftalari/Anahtar_Kelimeler/09_STM32_Cevre_Birimleri.md"><img src="assets/dal-stm32.svg" alt="STM32" width="24%"></a>
+<a href="https://github.com/berilmrc/Staj/blob/main/Staj_haftalari/Anahtar_Kelimeler/01_Basinc_ve_Olcum.md"><img src="assets/dal-statik-port.svg" alt="Statik Port" width="24%"></a>
+<a href="https://github.com/berilmrc/Staj/blob/main/Staj_haftalari/Anahtar_Kelimeler/03_Haberlesme.md"><img src="assets/dal-haberlesme.svg" alt="Haberleşme" width="24%"></a>
+<a href="https://github.com/berilmrc/Staj/blob/main/Staj_haftalari/Anahtar_Kelimeler/11_C_Programlama.md"><img src="assets/dal-c.svg" alt="C" width="24%"></a>
 
 </div>
 
