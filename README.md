@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,100:6f42c1&height=180&section=header&text=Merhaba,%20ben%20Beril%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Başlık" width="100%">
 
-<p><b>Gömülü sistemler stajyeri · STM32 · Haberleşme protokolleri</b></p>
-
 </div>
 
 ---
@@ -11,7 +9,7 @@
 ## 🙋‍♀️ Hakkımda
 
 - 🎓 **Gazi Üniversitesi**, **Elektrik-Elektronik Mühendisliği** öğrencisiyim.
-- 📚 Öğrendiklerimi haftalık raporlar ve bir **anahtar kelime sözlüğü** hâlinde topluyorum.
+- 📚 Öğrendiklerimi haftalık raporlar ve **keyword** listesi hâlinde topluyorum.
 
 ---
 
