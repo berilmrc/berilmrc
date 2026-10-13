@@ -1,41 +1,18 @@
-<div align="center">
+<p align="center">
+<a href="https://github.com/berilmrc?tab=repositories"><img src="assets/harita/r0c0.svg" alt="Projeler" width="25%" align="top"></a><a href="https://github.com/berilmrc/Staj"><img src="assets/harita/r0c1.svg" alt="Staj" width="25%" align="top"></a><a href="https://github.com/berilmrc/Staj/tree/main/Hazirlik_haftalari"><img src="assets/harita/r0c2.svg" alt="Hazırlık" width="25%" align="top"></a><a href="https://github.com/berilmrc/Staj/tree/main/Hazirlik_haftalari/00_On_hazirlik_haftasi"><img src="assets/harita/r0c3.svg" alt="Ön Hazırlık" width="25%" align="top"></a><br>
+<a href="#"><img src="assets/harita/r1c0.svg" alt="" width="25%" align="top"></a><a href="https://github.com/berilmrc?tab=repositories"><img src="assets/harita/r1c1.svg" alt="" width="25%" align="top"></a><a href="https://github.com/berilmrc/Staj"><img src="assets/harita/r1c2.svg" alt="" width="25%" align="top"></a><a href="https://github.com/berilmrc/Staj/tree/main/Hazirlik_haftalari/01_Hafta_1"><img src="assets/harita/r1c3.svg" alt="1. Hafta" width="25%" align="top"></a><br>
+<a href="#"><img src="assets/harita/r2c0.svg" alt="" width="25%" align="top"></a><a href="https://github.com/berilmrc?tab=repositories"><img src="assets/harita/r2c1.svg" alt="" width="25%" align="top"></a><a href="https://github.com/berilmrc/Staj"><img src="assets/harita/r2c2.svg" alt="" width="25%" align="top"></a><a href="https://github.com/berilmrc/Staj/tree/main/Hazirlik_haftalari/02_Hafta_2"><img src="assets/harita/r2c3.svg" alt="2. Hafta" width="25%" align="top"></a><br>
+<a href="#"><img src="assets/harita/r3c0.svg" alt="" width="25%" align="top"></a><a href="https://github.com/berilmrc?tab=repositories"><img src="assets/harita/r3c1.svg" alt="" width="25%" align="top"></a><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari"><img src="assets/harita/r3c2.svg" alt="Staj Haftaları" width="25%" align="top"></a><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/03_Hafta_3"><img src="assets/harita/r3c3.svg" alt="3. Hafta" width="25%" align="top"></a><br>
+<a href="#"><img src="assets/harita/r4c0.svg" alt="" width="25%" align="top"></a><a href="https://github.com/berilmrc?tab=repositories"><img src="assets/harita/r4c1.svg" alt="" width="25%" align="top"></a><a href="#"><img src="assets/harita/r4c2.svg" alt="" width="25%" align="top"></a><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/04_Hafta_4"><img src="assets/harita/r4c3.svg" alt="4. Hafta" width="25%" align="top"></a><br>
+<a href="#"><img src="assets/harita/r5c0.svg" alt="" width="25%" align="top"></a><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/Anahtar_Kelimeler"><img src="assets/harita/r5c1.svg" alt="Keywords" width="25%" align="top"></a><a href="#"><img src="assets/harita/r5c2.svg" alt="" width="25%" align="top"></a><a href="#"><img src="assets/harita/r5c3.svg" alt="" width="25%" align="top"></a>
+</p>
 
-<a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/Anahtar_Kelimeler"><img src="assets/beyin-haritasi.svg" alt="Beril — STM32, Statik Port, Haberleşme ve C konularını gösteren beyin haritası" width="100%"></a>
+## Hakkımda
 
-<a href="https://github.com/berilmrc/Staj/blob/main/Staj_haftalari/Anahtar_Kelimeler/09_STM32_Cevre_Birimleri.md"><img src="assets/dal-stm32.svg" alt="STM32" width="24%"></a>
-<a href="https://github.com/berilmrc/Staj/blob/main/Staj_haftalari/Anahtar_Kelimeler/01_Basinc_ve_Olcum.md"><img src="assets/dal-statik-port.svg" alt="Statik Port" width="24%"></a>
-<a href="https://github.com/berilmrc/Staj/blob/main/Staj_haftalari/Anahtar_Kelimeler/03_Haberlesme.md"><img src="assets/dal-haberlesme.svg" alt="Haberleşme" width="24%"></a>
-<a href="https://github.com/berilmrc/Staj/blob/main/Staj_haftalari/Anahtar_Kelimeler/11_C_Programlama.md"><img src="assets/dal-c.svg" alt="C" width="24%"></a>
+- 🎓 **Gazi Üniversitesi**, **Elektrik-Elektronik Mühendisliği** öğrencisiyim.
+- 🔧 Çalıştığım konular: **STM32**, **Statik Port**, **Haberleşme** (UART · RS485 · Modbus) ve **C**.
+- 📚 Öğrendiklerimi haftalık raporlar ve **keyword** listesi hâlinde topluyorum.
 
-</div>
-
-## 📂 Projelerim
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📘 [Staj](https://github.com/berilmrc/Staj)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔑 [Keywords](https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/Anahtar_Kelimeler)
-
-</td>
-</tr>
-</table>
-
-## 🗓️ Staj Yolculuğu
-
-| Dönem | Konu |
-|---|---|
-| 🧩 Hazırlık Haftası | Elektronik temelleri |
-| 1️⃣ 1. Hafta | Şematik okuma, dijital mantık, C'ye giriş |
-| 2️⃣ 2. Hafta | C derinleşme, mikrodenetleyici kavramı, Wokwi |
-| 3️⃣ 3. Hafta | STM32 simülasyon ödevleri |
-| 4️⃣ 4. Hafta | Kavramsal tasarım |
-
-## 📫 İletişim
+## İletişim
 
 <a href="https://www.linkedin.com/in/beril-mercan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
