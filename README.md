@@ -4,11 +4,6 @@
 
 <p><b>Gömülü sistemler stajyeri · STM32 · Haberleşme protokolleri</b></p>
 
-<img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
-<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-<img alt="Wokwi" src="https://img.shields.io/badge/Wokwi-6f42c1?style=for-the-badge">
-<img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white">
-
 </div>
 
 ---
@@ -16,12 +11,11 @@
 ## 🙋‍♀️ Hakkımda
 
 - 🎓 **Gazi Üniversitesi**, **Elektrik-Elektronik Mühendisliği** öğrencisiyim.
-- 🎯 Staj projem: **Statik Port** üzerinde STM32 tabanlı basınç ölçümü ve haberleşme.
 - 📚 Öğrendiklerimi haftalık raporlar ve bir **anahtar kelime sözlüğü** hâlinde topluyorum.
 
 ---
 
-## 🔧 Staj Konularım
+## 🔧 Çalıştığım Konular
 
 <table>
 <tr>
@@ -41,13 +35,11 @@
 <td width="50%" valign="top">
 
 ### 📘 [Staj](https://github.com/berilmrc/Staj)
-Hazırlık haftaları ve 4 haftalık staj sürecinin raporları, Wokwi simülasyonları ve kavramsal tasarım.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔑 [Anahtar Kelimeler](https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/Anahtar_Kelimeler)
-Staj boyunca karşılaştığım **138 teknik terim**, 11 konu grubuna ayrılmış hâlde.
 
 </td>
 </tr>
