@@ -1,3 +1,41 @@
+<details>
+<summary><b>🇬🇧 English</b></summary>
+
+<p align="center">
+<img src="assets/lowpoly/en/ust.svg" alt="Hi, how can I help you?" width="100%" align="top"><br>
+<img src="assets/lowpoly/en/sol0.svg" alt="" width="40%" align="top"><a href="https://github.com/berilmrc/Staj"><img src="assets/lowpoly/en/sag0.svg" alt="Internship work" width="60%" align="top"></a><br>
+<img src="assets/lowpoly/en/sol1.svg" alt="" width="40%" align="top"><a href="https://github.com/berilmrc/Staj/tree/main/Hazirlik_haftalari"><img src="assets/lowpoly/en/sag1.svg" alt="Preparation weeks" width="60%" align="top"></a><br>
+<img src="assets/lowpoly/en/sol2.svg" alt="" width="40%" align="top"><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari"><img src="assets/lowpoly/en/sag2.svg" alt="Internship weeks" width="60%" align="top"></a><br>
+<img src="assets/lowpoly/en/sol3.svg" alt="" width="40%" align="top"><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/Keywords/"><img src="assets/lowpoly/en/sag3.svg" alt="Keyword list" width="60%" align="top"></a><br>
+<img src="assets/lowpoly/en/sol4.svg" alt="" width="40%" align="top"><a href="#about"><img src="assets/lowpoly/en/sag4.svg" alt="Who is Beril?" width="60%" align="top"></a><br>
+<img src="assets/lowpoly/en/sol5.svg" alt="" width="40%" align="top"><a href="https://www.linkedin.com/in/beril-mercan/"><img src="assets/lowpoly/en/sag5.svg" alt="Contact" width="60%" align="top"></a><br>
+<img src="assets/lowpoly/en/alt.svg" alt="" width="100%" align="top">
+</p>
+
+### About
+
+- 🎓 Electrical and Electronics Engineering student at **Gazi University**.
+- 🔧 Topics I work on: **STM32**, **Static Port**, **Communication** (UART · RS485 · Modbus) and **C**.
+- 📚 I collect what I learn as weekly reports and a **keyword** list.
+
+</details>
+
+<details open>
+<summary><b>🇹🇷 Türkçe</b></summary>
+
+<p align="center">
+<img src="assets/lowpoly/tr/ust.svg" alt="Merhaba, nasıl yardımcı olabilirim?" width="100%" align="top"><br>
+<img src="assets/lowpoly/tr/sol0.svg" alt="" width="40%" align="top"><a href="https://github.com/berilmrc/Staj"><img src="assets/lowpoly/tr/sag0.svg" alt="Staj çalışmaları" width="60%" align="top"></a><br>
+<img src="assets/lowpoly/tr/sol1.svg" alt="" width="40%" align="top"><a href="https://github.com/berilmrc/Staj/tree/main/Hazirlik_haftalari"><img src="assets/lowpoly/tr/sag1.svg" alt="Hazırlık haftaları" width="60%" align="top"></a><br>
+<img src="assets/lowpoly/tr/sol2.svg" alt="" width="40%" align="top"><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari"><img src="assets/lowpoly/tr/sag2.svg" alt="Staj haftaları" width="60%" align="top"></a><br>
+<img src="assets/lowpoly/tr/sol3.svg" alt="" width="40%" align="top"><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/Keywords/"><img src="assets/lowpoly/tr/sag3.svg" alt="Keyword listesi" width="60%" align="top"></a><br>
+<img src="assets/lowpoly/tr/sol4.svg" alt="" width="40%" align="top"><a href="#hakkımda"><img src="assets/lowpoly/tr/sag4.svg" alt="Beril kimdir?" width="60%" align="top"></a><br>
+<img src="assets/lowpoly/tr/sol5.svg" alt="" width="40%" align="top"><a href="https://www.linkedin.com/in/beril-mercan/"><img src="assets/lowpoly/tr/sag5.svg" alt="İletişim" width="60%" align="top"></a><br>
+<img src="assets/lowpoly/tr/alt.svg" alt="" width="100%" align="top">
+</p>
+
+</details>
+
 <p align="center">
 <a href="https://github.com/berilmrc/Staj/tree/main/Hazirlik_haftalari/00_On_hazirlik_haftasi"><img src="assets/graf/g00.svg" alt="Ön Hazırlık" width="20%" align="top"></a><a href="https://github.com/berilmrc/Staj/tree/main/Hazirlik_haftalari/02_Hafta_2"><img src="assets/graf/g01.svg" alt="2. Hafta" width="20%" align="top"></a><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/Keywords/01_Basinc_ve_Olcum.md"><img src="assets/graf/g02.svg" alt="Basınç ve Ölçüm" width="20%" align="top"></a><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/Keywords/02_ADC_ve_Sinyal.md"><img src="assets/graf/g03.svg" alt="ADC ve Sinyal" width="20%" align="top"></a><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/Keywords/03_Haberlesme.md"><img src="assets/graf/g04.svg" alt="Haberleşme" width="20%" align="top"></a><br>
 <a href="https://github.com/berilmrc/Staj/tree/main/Hazirlik_haftalari/01_Hafta_1"><img src="assets/graf/g10.svg" alt="1. Hafta" width="20%" align="top"></a><a href="https://github.com/berilmrc/Staj/tree/main/Hazirlik_haftalari"><img src="assets/graf/g11.svg" alt="Hazırlık" width="20%" align="top"></a><img src="assets/graf/g12.svg" alt="" width="20%" align="top"><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/Keywords/04_Kontrol_ve_Sistem_Tasarimi.md"><img src="assets/graf/g13.svg" alt="Kontrol ve Sistem Tasarımı" width="20%" align="top"></a><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/Keywords/05_Guc_Elektronigi_ve_Suruculer.md"><img src="assets/graf/g14.svg" alt="Güç Elektroniği ve Sürücüler" width="20%" align="top"></a><br>
