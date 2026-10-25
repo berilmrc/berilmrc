@@ -1,9 +1,9 @@
 <p align="center">
 <img src="assets/lowpoly/en/ust.svg" alt="Hi, how can I help you?" width="100%" align="top"><br>
-<img src="assets/lowpoly/en/sol0.svg" alt="" width="38.1%" align="top"><a href="https://github.com/berilmrc/Staj"><img src="assets/lowpoly/en/b0.svg" alt="Internship work" width="61.9%" align="top"></a><br>
-<img src="assets/lowpoly/en/sol1.svg" alt="" width="38.1%" align="top"><a href="https://github.com/berilmrc/Staj/tree/main/Hazirlik_haftalari"><img src="assets/lowpoly/en/b1.svg" alt="Preparation weeks" width="61.9%" align="top"></a><br>
-<img src="assets/lowpoly/en/sol2.svg" alt="" width="38.1%" align="top"><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari"><img src="assets/lowpoly/en/b2.svg" alt="Internship weeks" width="61.9%" align="top"></a><br>
-<img src="assets/lowpoly/en/sol3.svg" alt="" width="38.1%" align="top"><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/Keywords/"><img src="assets/lowpoly/en/b3.svg" alt="Keyword list" width="61.9%" align="top"></a><br>
+<img src="assets/lowpoly/en/sol0.svg" alt="" width="35.71%" align="top"><a href="https://github.com/berilmrc/Staj"><img src="assets/lowpoly/en/sag0.svg" alt="Internship work" width="64.29%" align="top"></a><br>
+<img src="assets/lowpoly/en/sol1.svg" alt="" width="35.71%" align="top"><a href="https://github.com/berilmrc/Staj/tree/main/Hazirlik_haftalari"><img src="assets/lowpoly/en/sag1.svg" alt="Preparation weeks" width="64.29%" align="top"></a><br>
+<img src="assets/lowpoly/en/sol2.svg" alt="" width="35.71%" align="top"><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari"><img src="assets/lowpoly/en/sag2.svg" alt="Internship weeks" width="64.29%" align="top"></a><br>
+<img src="assets/lowpoly/en/sol3.svg" alt="" width="35.71%" align="top"><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/Keywords/"><img src="assets/lowpoly/en/sag3.svg" alt="Keyword list" width="64.29%" align="top"></a><br>
 <img src="assets/lowpoly/en/alt.svg" alt="" width="100%" align="top">
 </p>
 
@@ -32,10 +32,10 @@
 
 <p align="center">
 <img src="assets/lowpoly/tr/ust.svg" alt="Merhaba, nasıl yardımcı olabilirim?" width="100%" align="top"><br>
-<img src="assets/lowpoly/tr/sol0.svg" alt="" width="38.1%" align="top"><a href="https://github.com/berilmrc/Staj"><img src="assets/lowpoly/tr/b0.svg" alt="Staj çalışmaları" width="61.9%" align="top"></a><br>
-<img src="assets/lowpoly/tr/sol1.svg" alt="" width="38.1%" align="top"><a href="https://github.com/berilmrc/Staj/tree/main/Hazirlik_haftalari"><img src="assets/lowpoly/tr/b1.svg" alt="Hazırlık haftaları" width="61.9%" align="top"></a><br>
-<img src="assets/lowpoly/tr/sol2.svg" alt="" width="38.1%" align="top"><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari"><img src="assets/lowpoly/tr/b2.svg" alt="Staj haftaları" width="61.9%" align="top"></a><br>
-<img src="assets/lowpoly/tr/sol3.svg" alt="" width="38.1%" align="top"><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/Keywords/"><img src="assets/lowpoly/tr/b3.svg" alt="Keyword listesi" width="61.9%" align="top"></a><br>
+<img src="assets/lowpoly/tr/sol0.svg" alt="" width="35.71%" align="top"><a href="https://github.com/berilmrc/Staj"><img src="assets/lowpoly/tr/sag0.svg" alt="Staj çalışmaları" width="64.29%" align="top"></a><br>
+<img src="assets/lowpoly/tr/sol1.svg" alt="" width="35.71%" align="top"><a href="https://github.com/berilmrc/Staj/tree/main/Hazirlik_haftalari"><img src="assets/lowpoly/tr/sag1.svg" alt="Hazırlık haftaları" width="64.29%" align="top"></a><br>
+<img src="assets/lowpoly/tr/sol2.svg" alt="" width="35.71%" align="top"><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari"><img src="assets/lowpoly/tr/sag2.svg" alt="Staj haftaları" width="64.29%" align="top"></a><br>
+<img src="assets/lowpoly/tr/sol3.svg" alt="" width="35.71%" align="top"><a href="https://github.com/berilmrc/Staj/tree/main/Staj_haftalari/Keywords/"><img src="assets/lowpoly/tr/sag3.svg" alt="Keyword listesi" width="64.29%" align="top"></a><br>
 <img src="assets/lowpoly/tr/alt.svg" alt="" width="100%" align="top">
 </p>
 
