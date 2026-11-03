@@ -1,7 +1,7 @@
 <p align="center">
 <img src="assets/scope/ekran.svg" alt="Beril Mercan" width="100%"><br>
 <a href="https://github.com/berilmrc/Staj"><img src="assets/scope/staj.svg" alt="Staj" width="50%"></a><a href="https://github.com/berilmrc/keywords"><img src="assets/scope/keywords.svg" alt="Keywords" width="50%"></a><br>
-<a href="https://github.com/berilmrc/projeler"><img src="assets/scope/projeler.svg" alt="Projeler" width="50%"></a><a href="https://github.com/berilmrc/soc"><img src="assets/scope/soc.svg" alt="SoC Tahmini" width="50%"></a>
+<a href="https://github.com/berilmrc/projeler"><img src="assets/scope/projeler.svg" alt="Projeler" width="50%"></a>
 </p>
 
 ## Hakkımda
